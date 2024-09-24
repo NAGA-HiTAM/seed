@@ -19,7 +19,7 @@ pip install -r requirement.txt
 
 input Your query_id=
 ```shell
-nano query.txt
+nano tokens.txt
 ```
 Start
 ```
