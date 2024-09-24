@@ -1,5 +1,5 @@
 # Register HERE
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/BlumCryptoBot/app?startapp=ref_QwD3tLsY8f)
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/seed_coin_bot/app?startapp=7009487021)
 
 # Join Telegram
 [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://chat.whatsapp.com/Fpyxyco4wcVF4lqhLbq7R5)
