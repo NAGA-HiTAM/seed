@@ -62,7 +62,7 @@ headers = {
 
 def load_credentials():
     try:
-        with open('query.txt', 'r') as file:
+        with open('tokens.txt', 'r') as file:
             tokens = file.read().strip().split('\n')
         return tokens
     except FileNotFoundError:
